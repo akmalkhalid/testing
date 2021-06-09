@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:akmal104041@gmail.com"
+      url: "mailto:akmal@jaist.ac.jp"
     - label: "Twitter"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://twitter.com/"
@@ -114,9 +114,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/akmalkhalid"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate-square ai-fw"
+      url: "https://www.researchgate.net/profile/Mohd-Nor-Akmal-Khalid"
+    - label: "GoogleScholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com.my/citations?user=GJeS-CwAAAAJ&hl=en"
+    - label: "ImpactStory"
+      icon: "ai ai-impactstory-square ai-fw"
+      url: "https://profiles.impactstory.org/u/0000-0002-7909-8869"
+    - label: "Publons"
+      icon: "ai ai-publons-square ai-fw"
+      url: "http://www.researcherid.com/rid/O-4569-2018"
 
 # Site Footer
 footer:
