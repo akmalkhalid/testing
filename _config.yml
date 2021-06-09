@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Website"
+title                    : "M.N.A. Khalid Academic Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mohd Nor Akmal Khalid"
-description              : "An amazing website."
+description              : "An Academic Website of Mohd Nor Akmal Khalid"
 url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site
 baseurl                  : "/testing" # the subpath of your site, e.g. "/blog"
 repository               : "akmalkhalid/testing" # GitHub username/repo-name
