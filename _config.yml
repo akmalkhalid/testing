@@ -94,21 +94,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mohd Nor Akmal Khalid"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Explorers of computational intelligence, entertainment science and games studies<br><br>Assistant professor in <a href='https://www.jaist.ac.jp' target='_blank'>School of Information Science, Japan Advanced Institute of Science and Technology</a> and Research Fellow in <a href='https://cs.usm.my' target='_blank'>School of Computer Sciences, University of Science Malaysia</a>"
+  location         : "Nomi, Ishikawa, Japan"
+  email            : "akmal104041@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:akmal104041@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+       url: "https://twitter.com/akmal5139"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,7 +124,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+       url: https://twitter.com/akmal5139
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
