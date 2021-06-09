@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Akmal's Academic Website"
 title_separator          : "-"
-subtitle                 : "AI meets Games" # site tagline that appears below site title in masthead
+subtitle                 : "How Intelligent AI in Games Solve Real-World Problem" # site tagline below site masthead
 name                     : "Mohd Nor Akmal Khalid"
 description              : "An Academic Website of Mohd Nor Akmal Khalid"
 url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site
