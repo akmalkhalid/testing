@@ -12,13 +12,13 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Akmal's Academic Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "AI meets Games" # site tagline that appears below site title in masthead
 name                     : "Mohd Nor Akmal Khalid"
 description              : "An Academic Website of Mohd Nor Akmal Khalid"
 url                      : "https://akmalkhalid.github.io" # the base hostname & protocol for your site
@@ -26,7 +26,7 @@ baseurl                  : "/testing" # the subpath of your site, e.g. "/blog"
 repository               : "akmalkhalid/testing" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/triangle.png" # path of logo image to display in the masthead
-masthead_title           : "About" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Science Meets Passion" # overrides the website title displayed in the masthead
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -218,7 +218,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
